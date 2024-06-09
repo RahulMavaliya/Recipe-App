@@ -1,10 +1,11 @@
-package com.example.recipeapp
+package com.example.recipeapp.ui.fragments.recipes
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
+import com.example.recipeapp.R
 import com.facebook.shimmer.ShimmerFrameLayout
 
 
